@@ -217,6 +217,15 @@ function App() {
         />
       </div>
 
+      <div className="bg-white p-20">
+        <div className="text-4xl text-[#B18FCF] p-4 font-bold">
+          Referral Program
+        </div>
+        <div className="text-4xl text-[#2C2C34] p-4">
+          If you refer a friend, you will receive a $15 after their 3rd lesson.
+        </div>
+      </div>
+
       <div className="bg-[#FFFFFF] p-20 flex flex-col justify-center items-center">
         <div className="text-6xl text-[#B18FCF] p-4 font-bold">
           Anyway, best of luck with your studies!
