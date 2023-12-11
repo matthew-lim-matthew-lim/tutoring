@@ -22,6 +22,7 @@ import picPondering from './pondering.jpg';
 import picMeInShade from './meInShade.jpg';
 import picMeAndSled from './meAndSled.jpg';
 import picMatrix from './matrix.jpg';
+import picCoopAward from './meGettingAward.png';
 
 // colour palette
 // https://coolors.co/d8d8f6-b18fcf-978897-494850-2c2c34
@@ -179,7 +180,7 @@ function App() {
 
       <div className="p-5 flex flex-row items-center">
         <img
-          src={picMatrix}
+          src={picCoopAward}
           alt="me in the shade"
           className="mx-auto w-1/3 flex rounded-[14px] shadow-2xl mt-8"
         />
@@ -206,6 +207,14 @@ function App() {
         <div className="text-4xl text-[#2C2C34] p-4">
           I hope to help you in this way too.
         </div>
+      </div>
+
+      <div className="p-4 flex flex-row items-center">
+        <img
+          src={picMatrix}
+          alt="me in the shade"
+          className="mx-auto w-1/3 flex rounded-[14px] shadow-2xl mt-8"
+        />
       </div>
 
       <div className="bg-[#FFFFFF] p-20 flex flex-col justify-center items-center">
