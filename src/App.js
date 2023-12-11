@@ -91,7 +91,18 @@ function App() {
         </div>
 
         <div className="text-3xl text-black font-semibold mt-6">
-          <code className="text-[#b18fcf]">mattlsixhundred@gmail.com </code>{' '}
+          <div>I teach years 7-12</div>
+          <code className="text-[#b18fcf]">
+            Maths Advanced, Maths Extension 1, Maths Extension 2, Physics,
+            Chemistry{' '}
+          </code>{' '}
+        </div>
+
+        <div className="text-3xl text-black font-semibold mt-6">
+          <div>My contact details</div>
+          <code className="text-[#b18fcf]">
+            mattlsixhundred@gmail.com{' '}
+          </code>{' '}
         </div>
 
         <div className="text-3xl text-black font-semibold">
