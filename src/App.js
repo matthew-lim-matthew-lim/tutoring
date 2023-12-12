@@ -137,7 +137,7 @@ function App() {
           <img
             src={picMeAndSled}
             alt="me in the shade"
-            className="mx-auto h-64 flex rounded-[14px] shadow-2xl mt-8"
+            className="mx-auto h-48 flex rounded-[14px] shadow-2xl mt-8"
           />
         </div>
 
