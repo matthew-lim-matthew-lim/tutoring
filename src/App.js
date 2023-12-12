@@ -53,7 +53,7 @@ function App() {
       </div>
       <script src="script.js"></script>
       <header className="App-header" style={{ zIndex: 3 }}>
-        <div className="p-5 flex flex-row items-center">
+        <div className="flex flex-row items-center">
           <img
             src={picMeInShade}
             alt="me in the shade"
@@ -112,16 +112,16 @@ function App() {
       <div className="bg-white p-20">
         <div className="flex flex-row">
           <div>
-            <div className="text-xl md:text-4xl text-[#2c2c34] p-6">
+            <div className="text-xl md:text-4xl text-[#2c2c34] p-2 md:p-6">
               Academia is not just about numbers, formulas, or reactions; it's
               about unlocking the incredible potential within each student.
             </div>
-            <div className="text-xl md:text-4xl text-[#2c2c34] p-6">
+            <div className="text-xl md:text-4xl text-[#2c2c34] p-2 md:p-6">
               I've walked the challenging path of learning these subjects, and I
               understand the frustration and awe that can come with it.{' '}
             </div>
 
-            <div className="text-2xl md:text-4xl text-[#2c2c34] p-6">
+            <div className="text-2xl md:text-4xl text-[#2c2c34] p-2 md:p-6">
               <div className="text-[#B18FCF]">
                 My mission is to be more than a tutor{' '}
               </div>
@@ -133,7 +133,7 @@ function App() {
           </div>
         </div>
 
-        <div className="p-5 flex flex-row items-center">
+        <div className="flex flex-row items-center">
           <img
             src={picMeAndSled}
             alt="me in the shade"
@@ -142,17 +142,17 @@ function App() {
         </div>
 
         <div>
-          <div className="text-xl md:text-3xl text-[#2c2c34] p-4">
+          <div className="text-xl md:text-3xl text-[#2c2c34] p-2 md:p-4">
             I believe in depth over breadth. I don't like to spread myself thin,
             and I want to ensure that my impact is not just extensive but deeply
             meaningful.
           </div>
-          <div className="text-xl md:text-3xl text-[#2c2c34] p-4">
+          <div className="text-xl md:text-3xl text-[#2c2c34] p-2 md:p-4">
             Accordingly, I limit the number of clients I take on.
           </div>
         </div>
 
-        <div className="p-5 flex flex-row items-center">
+        <div className="flex flex-row items-center">
           <img
             src={picPondering}
             alt="me in the shade"
@@ -161,25 +161,25 @@ function App() {
         </div>
 
         <div>
-          <div className="text-xl md:text-4xl text-[#B18FCF] p-4">
+          <div className="text-xl md:text-4xl text-[#B18FCF] p-2 md:p-4">
             My rates are as follows. I am happy to negotiate.
           </div>
-          <div className="text-xl md:text-4xl text-[#2c2c34] p-4">
+          <div className="text-xl md:text-4xl text-[#2c2c34] p-2 md:p-4">
             <code className="text-[#B18FCF]">Online (1 on 1) </code>- $55/hr
           </div>
 
-          <div className="text-xl md:text-4xl text-[#2c2c34] p-4">
+          <div className="text-xl md:text-4xl text-[#2c2c34] p-2 md:p-4">
             <code className="text-[#B18FCF]">In Person (1 on 1) </code>- $80/hr
             (min 2 hours per session)
           </div>
 
-          <div className="text-xl md:text-4xl text-[#2c2c34] p-4">
+          <div className="text-xl md:text-4xl text-[#2c2c34] p-2 md:p-4">
             <code className="text-[#B18FCF]">Group </code>- Consult for pricing
           </div>
         </div>
       </div>
 
-      <div className="p-5 flex flex-row items-center">
+      <div className="flex flex-row items-center">
         <img
           src={picCoopAward}
           alt="me in the shade"
@@ -188,29 +188,29 @@ function App() {
       </div>
 
       <div className="bg-white p-20">
-        <div className="text-xl md:text-4xl text-[#B18FCF] p-4 font-bold">
+        <div className="text-xl md:text-4xl text-[#B18FCF] p-2 md:p-4 font-bold">
           How will I help you?
         </div>
-        <div className="text-xl md:text-3xl text-[#2C2C34] p-4">
+        <div className="text-xl md:text-3xl text-[#2C2C34] p-2 md:p-4">
           I ended year 12 with 1st in Physics, 2nd in Extension 1 Maths, 2nd in
           Extension 2 Maths, and 3rd in Chemistry.
         </div>
-        <div className="text-xl md:text-3xl text-[#2C2C34] p-4">
+        <div className="text-xl md:text-3xl text-[#2C2C34] p-2 md:p-4">
           But I was not always a top student. I struggled with my studies before
           year 11 and 12. I did not make the cut for the accelerated class.
         </div>
 
-        <div className="text-xl md:text-3xl text-[#2C2C34] p-4">
+        <div className="text-xl md:text-3xl text-[#2C2C34] p-2 md:p-4">
           It took me a long time to realize that I was not a bad student. I was
           just studying in a way that did not work for me.
         </div>
 
-        <div className="text-xl md:text-3xl text-[#2C2C34] p-4">
+        <div className="text-xl md:text-3xl text-[#2C2C34] p-2 md:p-4">
           I hope to help find your rythm and your style of learning.
         </div>
       </div>
 
-      <div className="p-4 flex flex-row items-center">
+      <div className="flex flex-row items-center">
         <img
           src={picMatrix}
           alt="me in the shade"
@@ -219,24 +219,24 @@ function App() {
       </div>
 
       <div className="bg-white p-20">
-        <div className="text-xl md:text-4xl text-[#B18FCF] p-4 font-bold">
+        <div className="text-xl md:text-4xl text-[#B18FCF] p-2 md:p-4 font-bold">
           Referral Program
         </div>
-        <div className="text-xl md:text-4xl text-[#2C2C34] p-4">
+        <div className="text-xl md:text-4xl text-[#2C2C34] p-2 md:p-4">
           If you refer a friend, you will receive a $15 after their 3rd lesson.
         </div>
       </div>
 
       <div className="bg-[#FFFFFF] p-20 flex flex-col justify-center items-center">
-        <div className="text-3xl md:text-6xl text-[#B18FCF] p-4 font-bold">
+        <div className="text-3xl md:text-6xl text-[#B18FCF] p-2 md:p-4 font-bold">
           Anyway, best of luck with your studies!
         </div>
-        <div className="text-xl md:text-3xl text-[#B18FCF] p-4 font-bold">
+        <div className="text-xl md:text-3xl text-[#B18FCF] p-2 md:p-4 font-bold">
           You're gonna pop off!
         </div>
       </div>
 
-      <div className="bg-[#FFFFFF] p-20 flex flex-col justify-center items-center">
+      <div className="bg-[#FFFFFF] p-4 md:p-10 flex flex-col justify-center items-center">
         <div className="flex flex-row justify-center">
           <a
             href="https://www.instagram.com/mattlim268/"
