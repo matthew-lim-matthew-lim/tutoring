@@ -109,7 +109,7 @@ function App() {
           <code className="text-[#b18fcf]">0444 529 505 </code>
         </div>
       </header>
-      <div className="bg-white p-20">
+      <div className="bg-white p-4 md:p-20">
         <div className="flex flex-row">
           <div>
             <div className="text-xl md:text-4xl text-[#2c2c34] p-2 md:p-6">
@@ -187,7 +187,7 @@ function App() {
         />
       </div>
 
-      <div className="bg-white p-20">
+      <div className="bg-white p-2 md:p-20">
         <div className="text-xl md:text-4xl text-[#B18FCF] p-2 md:p-4 font-bold">
           How will I help you?
         </div>
@@ -218,7 +218,7 @@ function App() {
         />
       </div>
 
-      <div className="bg-white p-20">
+      <div className="bg-white p-2 md:p-20">
         <div className="text-xl md:text-4xl text-[#B18FCF] p-2 md:p-4 font-bold">
           Referral Program
         </div>
