@@ -262,14 +262,6 @@ function App() {
           >
             <FontAwesomeIcon icon={faLinkedin} size="3x" />
           </a>
-          <a
-            href="https://open.spotify.com/user/mattlsixhundred?si=b497dd67836148fe"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="m-2 p-2"
-          >
-            <FontAwesomeIcon icon={faSpotify} size="3x" />
-          </a>
         </div>
       </div>
     </div>
